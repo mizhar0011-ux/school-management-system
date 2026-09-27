@@ -162,10 +162,9 @@ Clone the repository and enter the project directory:
 
 ```bash
 
-git clone <repository-url>
+git clone https://github.com/mizhar0011-ux/school-management-system.git
 
-cd auth-workshop
-
+cd school-management-system
 ```
 
 
