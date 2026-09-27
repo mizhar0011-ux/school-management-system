@@ -448,3 +448,14 @@ tests/
 
 
 This project is developed for educational and portfolio purposes.
+
+## Demo Admin Credentials
+
+For testing the Admin panel, use the following demo account:
+
+- **Email:** `admin@horizonacademy.com`
+- **Password:** `Admin@12345`
+- **Role:** Admin
+- **Status:** Approved
+
+These credentials are provided for local/demo testing purposes.
